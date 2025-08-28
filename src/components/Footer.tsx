@@ -37,14 +37,14 @@ export default function Footer() {
             <div className="w-12 h-12  rounded-xl flex items-center justify-center  p-1">
               <Image
                 src={logo}
-                alt="GABHA Logo"
+                alt="TRP Logo"
                 width={40}
                 height={40}
                 className="object-contain"
               />
             </div>
             <h3 className="text-3xl font-bold bg-gradient-to-r from-[#f1d116] to-[#f1d116] bg-clip-text text-transparent">
-              GABHA
+              TRP
             </h3>
           </div>
           <p className="text-gray-600 mb-6 text-lg">
@@ -98,7 +98,7 @@ export default function Footer() {
         {/* Copyright */}
         <div className="border-t border-gray-200 pt-6 text-center">
           <p className="text-gray-500">
-            © 2025 GABHA Marketing. All rights reserved.
+            © 2025 TRP Marketing. All rights reserved.
           </p>
         </div>
       </div>

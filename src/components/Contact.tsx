@@ -97,7 +97,7 @@ export default function Contact() {
             transition={{ duration: 0.8, delay: 0.4 }}
             viewport={{ once: true }}
           >
-            Ready to get started? Let's discuss your project and how GABHA can
+            Ready to get started? Let's discuss your project and how TRP can
             help you achieve your marketing goals.
           </motion.p>
         </motion.div>
@@ -151,7 +151,7 @@ export default function Contact() {
                 </motion.div>
                 <div>
                   <div className="text-gray-900 font-bold text-lg">Call Us</div>
-                  <div className="text-gray-600 text-lg">+1 (555) 123-4567</div>
+                  <div className="text-gray-600 text-lg">89832 09982</div>
                 </div>
               </motion.div>
 
@@ -177,7 +177,7 @@ export default function Contact() {
                     Email Us
                   </div>
                   <div className="text-gray-600 text-lg">
-                    hello@gabamarketing.com
+                    trpmarketingagency@gmail.com
                   </div>
                 </div>
               </motion.div>
@@ -203,9 +203,7 @@ export default function Contact() {
                   <div className="text-gray-900 font-bold text-lg">
                     Visit Us
                   </div>
-                  <div className="text-gray-600 text-lg">
-                    123 Marketing Ave, Creative City, CC 12345
-                  </div>
+                  <div className="text-gray-600 text-lg">Katraj,Pune</div>
                 </div>
               </motion.div>
             </div>

@@ -25,7 +25,7 @@ const testimonials = [
     name: "Quadcore FX",
     company: "Trading Co.",
     content:
-      "Professional, creative, and reliable. GABHA delivered our complete marketing campaign on time and exceeded our expectations. Highly recommended!",
+      "Professional, creative, and reliable. TRP delivered our complete marketing campaign on time and exceeded our expectations. Highly recommended!",
     rating: 4,
     avatar: "ER",
     service: "Full Marketing Campaign",
@@ -34,7 +34,10 @@ const testimonials = [
 
 export default function Testimonials() {
   return (
-    <section className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-br from-white via-blue-50 to-indigo-100 relative overflow-hidden">
+    <section
+      id="testimonials"
+      className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-br from-white via-blue-50 to-indigo-100 relative overflow-hidden"
+    >
       {/* Animated Background Elements */}
       <div className="absolute inset-0">
         <motion.div
@@ -116,7 +119,7 @@ export default function Testimonials() {
             viewport={{ once: true }}
           >
             Don't just take our word for it. Here's what our clients have to say
-            about working with GABHA.
+            about working with TRP.
           </motion.p>
         </motion.div>
 
